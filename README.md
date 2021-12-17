@@ -1,9 +1,9 @@
 # ANALYSIS OF INDIAN ELECTIONS USING TWITTER
 
 ## Table of Contents  
-- [General Info](#general-info)\
-- [Technologies](#technologies)\
-- [Getting Started](#getting-started)\
+- [General Info](#general-info)
+- [Technologies](#technologies)
+- [Getting Started](#getting-started)
 - [Authors](#authors)
 
 ## General Info
